@@ -2,9 +2,9 @@
 
 ## Developers
 
-Mamatha Shetty
-
 Kolla Neeraja
+
+Mamatha Shetty
 
 ## Problem Statement
 
